@@ -1,0 +1,7 @@
+.Home{
+
+  display: flex;
+  border-radius: 5px solid black;
+  height: 100%;
+  box-sizing: content-box;
+  }
